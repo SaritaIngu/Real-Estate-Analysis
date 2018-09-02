@@ -40,6 +40,7 @@ I analyzed the Real Estate Dataset from Zillow.com. It contained data aggregated
 
 
 ## Data sets
+Got from : https://www.zillow.com/research/data/
 Sale_Counts_State:  https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/data/Home%20Sale%20Counts/Sale_Counts_State.csv
 
 Sale Prices By Metro:  https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/data/Median%20Price/Sale_Prices_Msa.csv
