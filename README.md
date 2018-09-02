@@ -35,11 +35,16 @@ I analyzed the Real Estate Dataset from Zillow.com. It contained data aggregated
 
 
 ## Data sets
-Sale_Counts_State: https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/data/Home%20Sale%20Counts/Sale_Counts_State.csv
+Sale_Counts_State:  https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/data/Home%20Sale%20Counts/Sale_Counts_State.csv
+
 Sale Prices By Metro:  https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/data/Median%20Price/Sale_Prices_Msa.csv
+
 Sale Prices State: https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/data/Median%20Price/Sale_Prices_State.csv
+
 Sale Prices City: https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/data/Median%20Price/Sale_Prices_City.csv
+
 AgeOfInventory Metro Public : https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/data/Inventory/AgeOfInventory_Metro_Public.csv
+
 ## Tools And Libraries Used
 1. Jupyter Notebook
 2. Seaborn, Plotly, pyplot
