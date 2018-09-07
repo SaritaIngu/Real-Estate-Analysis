@@ -24,16 +24,7 @@ I analyzed the Real Estate Dataset from Zillow.com. It contained data aggregated
  <p align="center">
   <img src="https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/images/SF-SJC.png" title="Median Price growth in Top Metros of Bay Area">
 </p>
-4. Home Sale Counts by state - US Map  -  California, Texas, Florida are 3 popular states in terms of Avg. houses sold per month. They all range from 25000 to 36000 avg. number of houses sold per month.
-<div>
-    <a href="https://plot.ly/~singuava/8/?share_key=t42budrsWYDdGzeUXaF7fS" target="_blank" title="Avg HousesSold - 2" style="display: block; text-align: center;"><img src="https://plot.ly/~singuava/8.png?share_key=t42budrsWYDdGzeUXaF7fS" alt="Avg HousesSold - 2" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="singuava:8" sharekey-plotly="t42budrsWYDdGzeUXaF7fS" src="https://plot.ly/embed.js" async></script>
-</div>
-
-5. Days On Market  - Seasonality through the year:  A clear pattern seasonality pattern can be observed between SF and USA over the years. Winter months (Nov - Feb) are periods of low house buying and hence the 'Days On Market' a property has been 'Active' in market are in the peak. Where as in summer properties tend to get sold faster. Hence the avg. days on market in these months is low.
-<p align="center">
-  <img src="https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/images/DOM%20trend.png" title="Days On Market - Line Map">
-</p>
+4. Days On Market  - Seasonality through the year:  A clear pattern seasonality pattern can be observed between SF and USA over the years. Winter months (Nov - Feb) are periods of low house buying and hence the 'Days On Market' a property has been 'Active' in market are in the peak. Where as in summer properties tend to get sold faster. Hence the avg. days on market in these months is low.
 <p align="center">
   <img src="https://github.com/SaritaIngu/Real-Estate-Analysis/blob/master/images/DOM%20Trend%20US%20Heatmap1.png" title="Days On Market - Heatmap">
 </p>
